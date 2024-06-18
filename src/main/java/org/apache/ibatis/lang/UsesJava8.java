@@ -24,6 +24,8 @@ import java.lang.annotation.Target;
 /**
  * <p>
  * Indicates that the element uses Java 8 API.
+ * learningContent
+ * 学习内容
  * </p>
  */
 @Documented
